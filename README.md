@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Sergey Olshanskiy
+## Hi there 👋, my name is Sergey Olshanskiy
 
 
 
 
-#### Get in touch
+### Get in touch
 ---
 linkedin:  	[linkedin.com/in/sergey-olshanskiy](https://www.linkedin.com/in/sergey-olshanskiy/)
 <!--
