@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 ## Hey 👋, [![Github Badge](https://img.shields.io/badge/-Cadabra-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Cadabra/)](https://www.github.com/Cadabra/) 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Cadabra alt=Cadabra /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Cadabra&show_icons=true&include_all_commits=true)](https://github.com/Cadabra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cadabra&layout=compact)](https://github.com/Cadabra/github-readme-stats)
