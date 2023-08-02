@@ -8,7 +8,6 @@
 linkedin:  	[linkedin.com/in/sergey-olshanskiy](https://www.linkedin.com/in/sergey-olshanskiy/)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cadabra)](https://github.com/Cadabra/github-readme-stats)
 <!--
 **Cadabra/Cadabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
