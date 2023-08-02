@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey 👋, [![Github Badge](https://img.shields.io/badge/-Cadabra-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Cadabra/)](https://www.github.com/Cadabra/) 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Cadabra alt=Cadabra /> </p>
